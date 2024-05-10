@@ -88,3 +88,10 @@ text-align: left;
     }
 
 }
+
+td {
+    padding: 10px; 
+    border: 0px ;
+    width:20%;
+    border-radius: 10px;
+}
