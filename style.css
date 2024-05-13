@@ -95,3 +95,9 @@ td {
     width:20%;
     border-radius: 10px;
 }
+
+.contacts-detail {
+    background-color: #CDD93F;
+    border: 1px solid #C4C4C4;
+    border-radius: 1px;
+}
